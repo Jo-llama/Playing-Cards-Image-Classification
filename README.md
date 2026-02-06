@@ -50,6 +50,6 @@ Achieved performance:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/jo-llama/Playing-Cards-Image-Classification.git
 # Playing-Cards-Image-Classification
 This repository contains a course project focused on building and evaluating an image classification model using TensorFlow / Keras
